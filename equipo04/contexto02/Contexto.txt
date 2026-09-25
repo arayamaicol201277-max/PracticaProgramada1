@@ -1,0 +1,1 @@
+El caso 02 utiliza el patron Factory Method.
