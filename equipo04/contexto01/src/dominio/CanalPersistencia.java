@@ -1,4 +1,4 @@
-package dominio;
+
 
 public interface CanalPersistencia {
     int getId();
